@@ -10,7 +10,7 @@ I believe in continuous learning and improving my skills while working on exciti
 
 ### 🚀 **Current Activities**
 - 🔍 Exploring **Next.js** and server-side rendering.
-- 🌐 Building a **full-stack tourism web app** with React, Node.js, and MongoDB.
+- 🌐 Building a **full-stack restaurant web app** with React, Node.js, and MongoDB.
 - 📚 Studying **data science** and working on small ML models.
 - ✨ Enhancing my front-end skills by learning **Tailwind CSS** and **Framer Motion** for animations.
 
