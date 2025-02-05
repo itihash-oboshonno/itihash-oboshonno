@@ -50,6 +50,5 @@ I believe in continuous learning and improving my skills while working on exciti
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itihash-oboshonno&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itihash-oboshonno&layout=compact&theme=radical" alt="Top Languages" />
-  [![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=itihash-oboshonno)]
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itihash-oboshonno&theme=radical" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=itihash-oboshonno" alt="GitHub Streak" />
 </p>
